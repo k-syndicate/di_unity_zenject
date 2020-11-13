@@ -1,0 +1,19 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+src/SwordsAndShovelsImproved/.vs
+
+src/SwordsAndShovelsImproved/Temp
+
+src/SwordsAndShovelsImproved/Library
+src/SwordsAndShovelsImproved/.idea
+src/SwordsAndShovelsImproved/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+
+src/SwordsAndShovelsImproved/obj
+
+.vs
+/builds
+src/SwordsAndShovelsImproved/Assets/Plugins/Editor/JetBrains
+
+*.csproj
+*.md
+
+.idea/

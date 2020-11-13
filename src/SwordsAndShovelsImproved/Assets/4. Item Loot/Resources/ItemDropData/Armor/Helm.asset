@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff583f062ffbf244985485bd800c07b, type: 3}
+  m_Name: Helm
+  m_EditorClassIdentifier: 
+  itemName: Helm
+  itemType: 4
+  itemArmorSubType: 1
+  itemAmount: 2
+  spawnChanceWeight: 5
+  itemMaterial: {fileID: 2100000, guid: 38c545d6c5c135f49bf7aa706c9a5131, type: 2}
+  itemIcon: {fileID: 21300000, guid: 0e0884814a92f824fbb35d66f61fb3af, type: 3}
+  itemSpawnObject: {fileID: 54602140791570588, guid: c300d9ebf3a2b3f4f87c051aa8a6a184,
+    type: 2}
+  weaponSlotObject: {fileID: 0}
+  isEquipped: 0
+  isInteractable: 1
+  isStorable: 1
+  isUnique: 0
+  isIndestructable: 1
+  isQuestItem: 0
+  isStackable: 0
+  destroyOnUse: 0
+  itemWeight: 5

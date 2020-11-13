@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff583f062ffbf244985485bd800c07b, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemName: Sword
+  itemType: 3
+  itemArmorSubType: 0
+  itemAmount: 10
+  spawnChanceWeight: 5
+  itemMaterial: {fileID: 2100000, guid: 1c0b8ab731c6b304086751987766544f, type: 2}
+  itemIcon: {fileID: 21300000, guid: 3b2626a4a9b97ad42abbba3f24ceff0b, type: 3}
+  itemSpawnObject: {fileID: 54985058832966930, guid: bdddc3344be6c184080352060c3061ed,
+    type: 2}
+  weaponSlotObject: {fileID: 11400000, guid: 49eab774cd4aa47549ea7f15204eb806, type: 2}
+  isEquipped: 0
+  isInteractable: 1
+  isStorable: 1
+  isUnique: 1
+  isIndestructable: 1
+  isQuestItem: 0
+  isStackable: 0
+  destroyOnUse: 0
+  itemWeight: 5
